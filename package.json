@@ -1,0 +1,25 @@
+{
+  "name": "hb_cy_prec",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taltektc/hb_cy_prec.git"
+  },
+  "author": "Hassan Bhuiyan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taltektc/hb_cy_prec/issues"
+  },
+  "homepage": "https://github.com/taltektc/hb_cy_prec#readme",
+  "dependencies": {
+    "cypress": "^12.12.0"
+  },
+  "devDependencies": {
+    "cypress-xpath": "^2.0.1"
+  }
+}
