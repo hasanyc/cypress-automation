@@ -13,3 +13,7 @@ pbcopy < ~/.ssh/id_rsa.pub
 1. Install XPath Plugin using ==> npm install cypress-xpath
 2. Add this line to e2e.js in support folder --> require('cypress-xpath')
 
+# Two cool plugins from VS Marketplace
+1. ES6 Mocha snippets
+2. Material Icon Theme
+
