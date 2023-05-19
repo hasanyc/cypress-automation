@@ -1,4 +1,4 @@
-# hb_cy_prec
+# Cypress-Automation project by Hassan Bhuiyan
 
 # copy ssh key from your PC
 pbcopy < ~/.ssh/id_rsa.pub
