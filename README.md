@@ -7,7 +7,7 @@ pbcopy < ~/.ssh/id_rsa.pub
 1. fire npm -i init ---> in your terminal to create package.json file
 2. fire npm install cypress --save -dev --> to install cypress
 3. npx cypress open OR node_modules/.bin/cypress open --> to start the cypress
-4. Go to Support/commands.js file and add this -->[ /// <reference types ="Cypress" /> ]
+4. Go to Support/commands.js file and add this -->[<reference types ="Cypress" /> ]
 
 # Install Xpath
 1. Install XPath Plugin using ==> npm install cypress-xpath
